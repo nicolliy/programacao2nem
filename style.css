@@ -1,8 +1,11 @@
-.cabecalho{
-    background-color: #424E61;
-    color: white;
-display: flex
+body{
+    background-color: antiquewhite;
 }
-.cabecalho-imagem{
-width: 20%
+
+footer{
+    background-color: black;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100;
 }
